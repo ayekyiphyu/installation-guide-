@@ -1,0 +1,6 @@
+Installation for the laravel 
+--------------------------------
+
+https://mohinmathakia.wordpress.com/2016/07/04/how-to-install-laravel-step-by-step/
+
+---------------------------------------------------------------------------------------
