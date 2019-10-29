@@ -1,0 +1,17 @@
+Step1 
+- login the github account
+
+Step2
+- Create a git repository
+
+Step3
+- git add .
+- git commit -m "your commit message"
+
+[this time you will face to the some error]
+- git remote origin "your git path"
+- git push -u orign "your branch"
+- git pull origin "your branch"
+
+
+Finished to the github upload to the file.
