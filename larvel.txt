@@ -1,6 +1,21 @@
 Installation for the laravel 
 --------------------------------
+Step 1
+- Download the composer 
+  https://getcomposer.org/
 
-https://mohinmathakia.wordpress.com/2016/07/04/how-to-install-laravel-step-by-step/
+Step2 
+- Run cmd 
+- Please insert the your xampp path
+  example ---> cd\xampp/htdocs
+  
+Step3
+- After finished Step2 you can build your first project file 
+- Type the command : composer create-project laravel/laravel ProjectName
 
+Step4
+- After Installation complete Open your browser and run URL e.g. http://localhost/your-project-name/public/, you will be see below output.
 ---------------------------------------------------------------------------------------
+
+Reference Website 
+- https://mohinmathakia.wordpress.com/2016/07/04/how-to-install-laravel-step-by-step/
