@@ -1,5 +1,9 @@
 Step1 
 - login the github account
+- cmd ကလဲ git command တွေရေးလို့ရပါတယ်
+- ဒါမှမဟုတ် gitကို installationလုပ်ပြီး git bashကိုအသုံးပြုနိုင်ပါတယ်။
+- https://git-scm.com/download  ဒေါင်းလုပ်လုပ်ယူနိင်ပါတယ်။
+
 
 Step2
 - Create a git repository
@@ -15,3 +19,13 @@ Step3
 
 
 Finished to the github upload to the file.
+
+git အကြောင်းသိကောင်းစရာများ 
+---------------------
+gitဆိုတာဘာလဲ?
+gitဆိုတာversion control system တစ်ခုဖြစ်တယ်။  version control system တွေက အမျိုးမျိုးရှိတယ် ဘာတွေလဲဆိုရင် 
+CSV, CVS, Mercurial, Fossil, and, of course, Git စသည်တို့ဖြစ်သည်။
+
+
+
+
