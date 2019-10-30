@@ -1,12 +1,12 @@
 # installation-guide
 Share to my easy installation guidelin
 
-#laravle-branch
+#step by step laravle installation
 
-#git-branch
+#how to use easy git
 
-#sass-branch
+#How to use Sass guide
 
-#bitcoin-branch
+#Share to Bitcoin
 
 
