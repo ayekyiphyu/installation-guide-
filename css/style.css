@@ -9,6 +9,7 @@
 /* Toggle Styles */
 .nav-tabs>li{
     float: none;
+    width: 300px;
 }
 .nav-tabs{
     border-bottom: 0;
